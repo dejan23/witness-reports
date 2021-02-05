@@ -6,7 +6,7 @@ require("./routes/reports")(app);
 
 module.exports = app;
 
-const start = async () => {
+const start = () => {
   app.listen(3000, () => {
     console.log("Listening on http://localhost:3000");
   });
