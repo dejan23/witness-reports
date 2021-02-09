@@ -5,13 +5,11 @@
 - yarn
 - yarn start
 
-==================================
-
-Notes
+## Notes
 
 - Once you start the project you can test api route on ie. http://localhost:3000/api/reports?title=brian&phone=+12025550156
 
-Available query strings:
+## Available query strings:
 
 - ?title=
 - ?phone=
